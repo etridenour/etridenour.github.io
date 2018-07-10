@@ -1,0 +1,79 @@
+html{
+    background-image: url('images/pig.jpg');
+    background-size: cover;
+    font-family: 'Kanit', sans-serif;
+
+}
+
+body{
+    
+    /* margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    width: 1000px; */
+
+}
+
+p{
+    font-size: 25px;
+}
+
+ul{
+    font-size: 25px;
+}
+
+li{
+    font-size: 25px
+}
+
+b {
+    font-size: 25px;
+}
+
+a {
+    font-size: 25px;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(231, 0, 0);
+}
+
+
+a:hover {
+    background-color: rgb(184, 110, 21);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.nav ul {
+    list-style: none;
+    background-color: rgb(16, 118, 201);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+.nav li {
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+  
+  }
+
+  .back{
+      width: 10%;
+  }
+
+.homeCenter{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
